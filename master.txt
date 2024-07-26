@@ -1,0 +1,1 @@
+./stealer-test-a/master.txt
